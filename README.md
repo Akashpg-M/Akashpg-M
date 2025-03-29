@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and build
 - **Dev Tools**: Git, GitHub, VSCode  
 
 ## 📬 Connect With Me  
-LinkedIn(www.linkedin.com/in/akash-m-50951828a/)  
-Email(waybooster.pg@gmail.com)
+
 
 Feel free to reach out.
