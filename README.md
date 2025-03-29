@@ -11,3 +11,9 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and build
 - **Web**: React.js, Node.js, MongoDB  
 - **Embedded**: Arduino  
 - **Dev Tools**: Git, GitHub, VSCode  
+
+## 📬 Connect With Me  
+**LinkedIn**: [Your Name](www.linkedin.com/in/akash-m-50951828a)  
+**Email**: [email](waybooster.pg@gmail.com)
+
+Feel free to reach out.
