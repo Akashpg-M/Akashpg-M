@@ -11,8 +11,3 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and build
 - **Web**: React.js, Node.js, MongoDB  
 - **Embedded**: Arduino  
 - **Dev Tools**: Git, GitHub, VSCode  
-
-## 📬 Connect With Me  
-
-
-Feel free to reach out.
