@@ -1,10 +1,10 @@
-# Hi, I'm Akash! 👋
+# Hi, I'm Akash!
 
 
 ## About Me
 
--  B.Tech in Computer Science (**IoT Specialization**) at **Shiv Nadar University, Chennai**
--  Passionate about **Full Stack Development, AI, IoT, Cloud and Real Time systems**
+-  B.Tech in CS at **Shiv Nadar University Chennai**
+-  Passionate about **Software Development**
 -  Coding and exploring new technologies
 
 ---
