@@ -1,66 +1,49 @@
-# Hi, I'm Akash!
+# Hi, I'm Akash 👋
 
+Software Engineer focused on building reliable, scalable, and practical software systems.
 
-## About Me
+Interested in **Backend Engineering, Distributed Systems, Cloud Computing, and Applied AI**.
 
--  B.Tech in CS at **Shiv Nadar University Chennai**
--  Passionate about **Software Development**
--  Coding and exploring new technologies
+Currently focused on building reliable software systems, strengthening system design fundamentals, and exploring cloud-native technologies.
+
+B.Tech Computer Science @ Shiv Nadar University Chennai
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-### Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashpg-M&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=go,python,cpp,java,ts,js" />
 </p>
 
----
-
-## GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Akashpg-M&theme=radical" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,nextjs" />
 </p>
 
----
-
-## Top Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashpg-M&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,kafka" />
 </p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode" />
+</p>
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> </p>
+
+<p align="center"> <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Vector_DBs-111827?style=for-the-badge&logo=weaviate&logoColor=white" /> <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=robotframework&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-111827?style=for-the-badge&logo=huggingface&logoColor=white" /> </p>
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akashpg-M&theme=github_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akashpg-M&theme=github_dark" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashpg-M&theme=github-compact&hide_border=true&area=true" width="95%" />
+</p>
+
+
 
 ## Visitor Count
 
